@@ -1,0 +1,5 @@
+path: C:/Users/Harish/Internship_Waste_Detection_YOLO/dataset  
+train: train/images  
+val: val/images  
+nc: 6  
+names: ['cardboard', 'compost', 'glass', 'metal', 'paper', 'plastic'] 
