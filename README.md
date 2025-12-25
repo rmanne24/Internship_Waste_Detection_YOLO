@@ -131,7 +131,7 @@ Visual proof of the model detecting waste in the validation dataset.
 - `runs/detect/train3/weights/best.pt`: The final trained model weights.
 - `train_waste_model.py`: The script used for training.
 - `resume_training.py`: Script used to recover training after system crashes.
-- `final_inference.py`: Script to run the model on test videos.
+
 
 ---
 
